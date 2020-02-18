@@ -7,14 +7,6 @@ View - is the front-end presentation layer, or UI layer
 Controller - is the logic layer that handles user requests and behavior, and updates the Model
 
 
-What is MVC?
------------------
-MVC stands for Model-View-Controller. It's a way to separate code into its own compartments, typicially like so:
-
-Model - is the data layer that manages business logic and maintains data
-View - is the front-end presentation layer, or UI layer
-Controller - is the logic layer that handles user requests and behavior, and updates the Model
-
 
 What is MVC?
 -----------------
@@ -23,4 +15,6 @@ MVC stands for Model-View-Controller. It's a way to separate code into its own c
 Model - is the data layer that manages business logic and maintains data
 View - is the front-end presentation layer, or UI layer
 Controller - is the logic layer that handles user requests and behavior, and updates the Model
+
+
 
